@@ -1,2 +1,2 @@
-obj-m := simple_devicedriver.o
-obj-m := sys_gpio_write.o
+obj-m := pen_register.o
+obj-m += penchar_register.o
